@@ -1,0 +1,22 @@
+body * {
+	background: green;
+	border: 1px solid black;
+
+}
+body * * {
+	background: yellow;
+	border: 1px solid black;
+}
+body * * * {
+	background:brown ;
+	border: 1px solid black;
+
+}
+body * * * * {
+	background: blue;
+	border: 1px solid black;
+}
+body * * * * * {
+	background: red;
+	border: 1px solid black;
+}
